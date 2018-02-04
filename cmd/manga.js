@@ -2,7 +2,7 @@ const Command = require('./command');
 const Discord = require('discord.js');
 const util = require('util');
 const MALjs = require('MALjs');
-const mal = new MALjs('process.env.MAL_USER', 'process.env.MAL_PASSWORD');
+const mal = new MALjs(process.env.MAL_USER, process.env.MAL_PASSWORD);
 
 module.exports = class Manga extends Command {
 
