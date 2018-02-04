@@ -1,0 +1,16 @@
+{
+  "name": "hyoudouapp",
+  "version": "1.0.0",
+  "description": "From the Future",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Céline Chamiot",
+  "license": "ISC",
+  "dependencies": {
+    "MALjs": "^0.1.0",
+    "discord.js": "^11.3.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
