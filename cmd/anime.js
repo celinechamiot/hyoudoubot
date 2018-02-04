@@ -19,6 +19,7 @@ module.exports = class Anime extends Command {
         args = args.join(' ');
 
         mal.anime.search(args).then(result => {
+            console.log(util.inspect(result, false, null));
             synopsis = result.anime[0].synopsis;
             synopsis = synopsis.toString();
             synopsis = synopsis.replace(new RegExp("<br />", 'g'), "");

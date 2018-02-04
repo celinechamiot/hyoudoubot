@@ -19,6 +19,7 @@ module.exports = class Manga extends Command {
         args = args.join(' ');
 
         mal.manga.search(args).then(result => {
+            console.log(util.inspect(result, false, null));
             synopsis = result.manga[0].synopsis;
             synopsis = synopsis.toString();
             synopsis = synopsis.replace(new RegExp("<br />", 'g'), "");
