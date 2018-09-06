@@ -158,11 +158,12 @@ let quotes = {
         },
         {
             "keywords": [
-                "Est-ce hygiénique ?",
+                "Est-cehygiénique ?",
                 "hygiénique",
+                "hygienique",
                 "vrac",
-                "vente en vrac",
-                "huile en vrac",
+                "venteenvrac",
+                "huileenvrac",
             ],
             "words": [
                 "https://media.giphy.com/media/13SFY2a8JkdcGsxbkA/giphy.gif"
