@@ -155,6 +155,18 @@ let quotes = {
             "words": [
                 "Merci de m'avoir crée maître !"
             ]
+        },
+        {
+            "keywords": [
+                "Est-ce hygiénique ?",
+                "hygiénique",
+                "vrac",
+                "vente en vrac",
+                "huile en vrac",
+            ],
+            "words": [
+                "https://media.giphy.com/media/13SFY2a8JkdcGsxbkA/giphy.gif"
+            ]
         }
     ]
 };
