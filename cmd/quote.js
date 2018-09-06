@@ -158,7 +158,8 @@ let quotes = {
         },
         {
             "keywords": [
-                "Est-cehygiénique ?",
+                "hyoudouest-cehygiénique?",
+                "Est-cehygiénique?",
                 "hygiénique",
                 "hygienique",
                 "vrac",
