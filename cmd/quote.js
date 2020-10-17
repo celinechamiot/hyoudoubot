@@ -12,11 +12,18 @@ let quotes = {
         },
         {
             "keywords": [
-                "pourquoi?",
-                "pourquoi",
+                "hajar"
             ],
             "words": [
-                "I was too focused on my banana",
+                "Hajar la BG ?",
+            ]
+        },
+        {
+            "keywords": [
+                "jecomprendpas"
+            ],
+            "words": [
+                "C'est la mer noire",
             ]
         },
         {
@@ -93,10 +100,10 @@ let quotes = {
                 "denisbrogniart"
             ],
             "words": [
-                "Vous voulez dire que les cabanes ne savent pas faire les femmes ? <:bolchevik:407621742178074624>",
-                "Les aventuriers de la tribu réunifiée ont décidé de vous éliminer. <:bolchevik:407621742178074624>",
-                "La sentence est irrévocable ! <:bolchevik:407621742178074624>",
-                "AH ! <:bolchevik:407621742178074624>",
+                "Vous voulez dire que les cabanes ne savent pas faire les femmes ?",
+                "Les aventuriers de la tribu réunifiée ont décidé de vous éliminer.",
+                "La sentence est irrévocable !",
+                "AH !",
             ]
         },
         {
@@ -133,41 +140,10 @@ let quotes = {
         },
         {
             "keywords": [
-                "spitonhim!",
-            ],
-            "words": [
-                "*spit*"
-            ]
-        },
-        {
-            "keywords": [
-                "hyoudout'eslemeilleur!",
-                "hyoudout'eslemeilleur",
-            ],
-            "words": [
-                "<:bolchevik:407621742178074624>"
-            ]
-        },
-        {
-            "keywords": [
                 "❤",
             ],
             "words": [
                 "Merci de m'avoir crée maître !"
-            ]
-        },
-        {
-            "keywords": [
-                "hyoudouest-cehygiénique?",
-                "Est-cehygiénique?",
-                "hygiénique",
-                "hygienique",
-                "vrac",
-                "venteenvrac",
-                "huileenvrac",
-            ],
-            "words": [
-                "https://media.giphy.com/media/13SFY2a8JkdcGsxbkA/giphy.gif"
             ]
         }
     ]
