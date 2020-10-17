@@ -28,7 +28,7 @@ let quotes = {
         },
         {
             "keywords": [
-                "Leah"
+                "leah"
             ],
             "words": [
                 "🐸",
@@ -36,7 +36,7 @@ let quotes = {
         },
         {
             "keywords": [
-                "Asma"
+                "asma"
             ],
             "words": [
                 "Asma elle est asmagnifique",
