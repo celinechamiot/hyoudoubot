@@ -79,7 +79,7 @@ let quotes = {
                 "yasmine"
             ],
             "words": [
-                "Yasmine la sirène ❤",
+                "Yasmine la sirène ❤ :mermaid_tone1:",
             ]
         },
         {
