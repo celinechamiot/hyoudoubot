@@ -36,6 +36,14 @@ let quotes = {
         },
         {
             "keywords": [
+                "Asma"
+            ],
+            "words": [
+                "Asma elle est asmagnifique",
+            ]
+        },
+        {
+            "keywords": [
                 "stob it"
             ],
             "words": [
