@@ -20,6 +20,22 @@ let quotes = {
         },
         {
             "keywords": [
+                "camille"
+            ],
+            "words": [
+                "Camille ou K-mille ?",
+            ]
+        },
+        {
+            "keywords": [
+                "Leah"
+            ],
+            "words": [
+                "🐸",
+            ]
+        },
+        {
+            "keywords": [
                 "stob it"
             ],
             "words": [
