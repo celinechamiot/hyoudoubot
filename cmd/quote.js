@@ -71,7 +71,15 @@ let quotes = {
                 "kelly"
             ],
             "words": [
-                "Kelly c'est la meilleure",
+                "Kelly c'est la meilleure ❤",
+            ]
+        },
+        {
+            "keywords": [
+                "yasmine"
+            ],
+            "words": [
+                "Yasmine la sirène ❤",
             ]
         },
         {
