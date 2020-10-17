@@ -55,7 +55,7 @@ let quotes = {
                 "snake"
             ],
             "words": [
-                "I hate snake !",
+                "I hate snakeu !",
             ]
         },
         {
