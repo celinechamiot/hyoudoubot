@@ -20,6 +20,46 @@ let quotes = {
         },
         {
             "keywords": [
+                "stob it"
+            ],
+            "words": [
+                "Hey, stob it!",
+            ]
+        },
+        {
+            "keywords": [
+                "snake"
+            ],
+            "words": [
+                "I hate snake !",
+            ]
+        },
+        {
+            "keywords": [
+                "my heart"
+            ],
+            "words": [
+                "My heart is omg",
+            ]
+        },
+        {
+            "keywords": [
+                "kelly"
+            ],
+            "words": [
+                "Kelly c'est la meilleure",
+            ]
+        },
+        {
+            "keywords": [
+                "syrineiloveyou"
+            ],
+            "words": [
+                "https://media.giphy.com/media/kyp7rbgP493Ax2esyH/giphy.gif",
+            ]
+        },
+        {
+            "keywords": [
                 "jecomprendpas"
             ],
             "words": [
